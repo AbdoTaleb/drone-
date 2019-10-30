@@ -20,5 +20,5 @@ and the drone will repeating the exact flight movements includeing start/stop ca
 - First step on https://developer.parrot.com/docs/sphinx/firststep.html
 - How to connect to the simulated drone https://developer.parrot.com/docs/sphinx/connectdrone.html
 
-After you have installed the all requirements on your laptop you need just to run the moveby.py file in your terminal and your are reday 
+After you have installed the all requirements on your laptop you need just to run the moveby.py file in your terminal and your are ready 
 to control your drone, when you finish, you will find the autoPilot.py in you home diroctroy and all you need to do is to run this file and the drone will repeat all movements automatically. 
