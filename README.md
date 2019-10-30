@@ -1,7 +1,7 @@
 
 # Enhanced Drone Autopilot Project
 
-## introdution 
+## Introdution 
 This project will help you to control your drone manually by using the keyboard of your laptop, 
 you will be able to take off, fly in the all directions, make rotations, start/stop the camera and land the drone. 
 The software will save the all movements that you do on the drone in a separate file called autoPilot so you can run it again
