@@ -16,7 +16,7 @@ and the drone will repeating the exact flight movements includeing start/stop ca
 3- Install Parrot-Sphinx   
 
 - requirements for Parrot-Sphinx on https://developer.parrot.com/docs/sphinx/system-requirements.html   
-- Installation procedure on https://developer.parrot.com/docs/sphinx/installation.html   
+   
 - Installation procedure   
 
   ### Add new apt repository to your system   
@@ -31,10 +31,12 @@ and the drone will repeating the exact flight movements includeing start/stop ca
   
   $ sudo apt-get update   
   
-  $ sudo apt-get install parrot-sphinx   
+  $ sudo apt-get install parrot-sphinx    
   
+  More information about how to install procedure is on https://developer.parrot.com/docs/sphinx/installation.html   
   
-- First step on https://developer.parrot.com/docs/sphinx/firststep.html
+- First step Firmwared on https://developer.parrot.com/docs/sphinx/firststep.html   
+
 - How to connect to the simulated drone https://developer.parrot.com/docs/sphinx/connectdrone.html
 
 After you have installed the all requirements on your laptop you need just to run the moveby.py file in your terminal and your are ready 
