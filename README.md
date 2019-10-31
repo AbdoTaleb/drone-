@@ -27,17 +27,17 @@ T == Take off
 
 L == land   
 
-W == press ones and the drone will move one meter to the front twics for two meters and so on.      
+W == press ones and the drone will move one meter to the front twics for two meters and so on.        
 
-S == move one meter back   
+S == press ones and the drone will move one meter back twics for two meters and so on.       
 
-D == move one meter to the right   
+D == press ones and the drone will move one meter to the right twics for two meters and so on.   
 
-A == move one meter to the left   
+A == press ones and the drone will move one meter to the left twics for two meters and so on.     
 
-U == move up    
+U == press ones and the drone will move one meter up twics for two meters and so on.    
 
-N == move down 
+N == press ones and the drone will move one meter down twics for two meters and so on.    
 
 Q == make rotation to the left    
 
