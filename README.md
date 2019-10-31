@@ -47,4 +47,4 @@ C == start recoding from the camera
 
 V == stop recording from the camera   
 
-when you finish with all movements and you stop running this file in your terminal, you will find the autoPilot.py in you home diroctroy and all you need to do is to run this file and the drone will repeat all movements automatically. 
+when you finish with all movements and you stop running this file in your terminal, you will find the autoPilot.py in you home diroctroy and all you need to do is to run this file in the terminal and the drone will repeat all movements automatically. 
