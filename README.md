@@ -34,9 +34,9 @@ observer than you can use this project on a simulated drone or a physical drone 
   
   ### Install the packages   
   
-  $ sudo apt-get update   
+  `$ sudo apt-get update`   
   
-  $ sudo apt-get install parrot-sphinx    
+  `$ sudo apt-get install parrot-sphinx`    
   
   More information about how to install procedure is on https://developer.parrot.com/docs/sphinx/installation.html   
   
