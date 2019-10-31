@@ -23,15 +23,24 @@ and the drone will repeating the exact flight movements includeing start/stop ca
 After you have installed the all requirements on your laptop you need just to run the moveby.py file in your terminal and your are ready 
 to control your drone.   
 
-T == Take off
-L == land
-W == move one meter to the front
-S == move one meter back
-D == move one meter to the right 
-A == move one meter to the left
-Q == make rotation to the left 
-E == make rotation to the right
-C == start recoding from the camera 
+T == Take off   
+
+L == land   
+
+W == move one meter to the front   
+
+S == move one meter back   
+
+D == move one meter to the right   
+
+A == move one meter to the left   
+
+Q == make rotation to the left    
+
+E == make rotation to the right   
+
+C == start recoding from the camera    
+
 V == stop recording from the camera   
 
 when you finish, you will find the autoPilot.py in you home diroctroy and all you need to do is to run this file and the drone will repeat all movements automatically. 
