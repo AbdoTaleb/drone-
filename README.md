@@ -8,8 +8,8 @@ The software will save the all movements that you do on the drone in a separate 
 and the drone will repeating the exact flight movements includeing start/stop camera.   
 
 observer than you can use this project on a simulated drone or a physical drone depends on the Id in the python script.   
-#### IP for the simulated drone is "10.202.0.1"   
-# IP for the physical drone is "192.168.42.1"   
+##### IP for the simulated drone is "10.202.0.1"   
+##### IP for the physical drone is "192.168.42.1"   
 
 
 ## How to use this project
