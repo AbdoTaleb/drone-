@@ -17,6 +17,12 @@ and the drone will repeating the exact flight movements includeing start/stop ca
 
 - requirements for Parrot-Sphinx on https://developer.parrot.com/docs/sphinx/system-requirements.html   
 - Installation procedure on https://developer.parrot.com/docs/sphinx/installation.html   
+- Installation procedure   
+
+Add new apt repository to your system   
+
+Setup your computer to accept packages from Parrot’s public server.  
+
 - First step on https://developer.parrot.com/docs/sphinx/firststep.html
 - How to connect to the simulated drone https://developer.parrot.com/docs/sphinx/connectdrone.html
 
