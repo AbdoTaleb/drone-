@@ -27,7 +27,7 @@ T == Take off
 
 L == land   
 
-W == move one meter to the front   
+W == press ones and the drone will move one meter to the front twics for two meters and so on.      
 
 S == move one meter back   
 
