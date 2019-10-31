@@ -28,11 +28,9 @@ observer than you can use this project on a simulated drone or a physical drone 
 
   ### Setup your computer to accept packages from Parrot’s public server.   
   
-    
+  `$ echo "deb http://plf.parrot.com/sphinx/binary `lsb_release -cs`/" | sudo tee /etc/apt/sources.list.d/sphinx.list > /dev/null`   
   
-  `$ echo "deb http://plf.parrot.com/sphinx/binary `lsb_release -cs`/" | sudo tee /etc/apt/sources.list.d/sphinx.list > /dev/null`
-  
-  $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 508B1AE5   
+  `$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 508B1AE5`   
   
   ### Install the packages   
   
