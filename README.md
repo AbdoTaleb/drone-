@@ -5,7 +5,12 @@
 This project will help you to control your drone manually by using the keyboard of your laptop, 
 you will be able to take off, fly in the all directions, make rotations, start/stop the camera and land the drone. 
 The software will save the all movements that you do on the drone in a separate file called autoPilot so you can run it again
-and the drone will repeating the exact flight movements includeing start/stop camera.
+and the drone will repeating the exact flight movements includeing start/stop camera.   
+
+observer than you can use this project on a simulated drone or a physical drone depends on the Id in the python script.   
+### IP for the simulated drone is "10.202.0.1"   
+### IP for the physical drone is "192.168.42.1"   
+
 
 ## How to use this project
 
@@ -35,9 +40,7 @@ and the drone will repeating the exact flight movements includeing start/stop ca
   
   More information about how to install procedure is on https://developer.parrot.com/docs/sphinx/installation.html   
   
-- First step Firmwared on https://developer.parrot.com/docs/sphinx/firststep.html   
-
-- How to connect to the simulated drone https://developer.parrot.com/docs/sphinx/connectdrone.html
+- First step Firmwared and Launch your first simulation on https://developer.parrot.com/docs/sphinx/firststep.html   
 
 After you have installed the all requirements on your laptop you need just to run the moveby.py file in your terminal and your are ready 
 to control your drone.   
