@@ -19,9 +19,12 @@ and the drone will repeating the exact flight movements includeing start/stop ca
 - Installation procedure on https://developer.parrot.com/docs/sphinx/installation.html   
 - Installation procedure   
 
-Add new apt repository to your system   
+  Add new apt repository to your system   
 
-Setup your computer to accept packages from Parrot’s public server.  
+  Setup your computer to accept packages from Parrot’s public server.   
+  $ echo "deb http://plf.parrot.com/sphinx/binary `lsb_release -cs`/" | sudo tee /etc/apt/sources.list.d/sphinx.list > /dev/null   
+  $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 508B1AE5
+
 
 - First step on https://developer.parrot.com/docs/sphinx/firststep.html
 - How to connect to the simulated drone https://developer.parrot.com/docs/sphinx/connectdrone.html
